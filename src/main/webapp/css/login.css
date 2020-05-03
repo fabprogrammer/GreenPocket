@@ -1,0 +1,45 @@
+body {
+	background-color: #5F5656;
+	position: relative;
+}
+
+#logo {
+	width: 47.703703703%;
+	position: absolute;
+	left: 26.1481481485%;
+	top: 400%;
+	position: absolute;
+}
+
+#input-login {
+	position: absolute;
+	top: 900%;
+	width: 33.2592592592%;
+	height: 270%;
+	border-radius: 100px;
+	background: #C4C4C4;
+	font-size: 20px;
+	padding: 5px;
+	left: 33.3703703704%;
+	margin-top: 2%;
+}
+
+#input-senha {
+	position: absolute;
+	top: 1500%;
+	width: 33.2592592592%;
+	height: 270%;
+	border-radius: 100px;
+	background: #C4C4C4;
+	font-size: 20px;
+	padding: 5px;
+	left: 33.3703703704%;
+	margin-top: 0.5%;
+}
+
+#botao-entrar {
+	position: absolute;
+	top: 2000%;
+	left: 42.326388888%;
+	width: 15.3472222222;
+}
